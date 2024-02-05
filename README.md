@@ -6,7 +6,13 @@
 # Whisper_helper
 This is a simple script to help non-programmers to simplify their workflow through audio file transcription.
 
-Note you need to install ```ffmpeg```, and obviously Python & Whisper. All instructions can be found on the Whisper GitHub page above. 
+Note: in order to use the script you need to install 
+- ```ffmpeg```
+- ```whisper```
+
+  All instructions can be found on the Whisper GitHub page above. 
+
+- ```Python``` (to install go to https://www.python.org/downloads/ and follow instructions)
 
 Currently the prompts / prints are in French, but can be quickly translated if I get requests in that sense. 
 
